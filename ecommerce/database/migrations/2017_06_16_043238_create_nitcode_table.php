@@ -24,7 +24,7 @@ class CreateNitcodeTable extends Migration
 
 
     });
-
+tg
     }
 
     /**
