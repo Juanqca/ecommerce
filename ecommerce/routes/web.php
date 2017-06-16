@@ -89,4 +89,7 @@ Route::resource('products','ProductController');
 
 
 Route::resource('provideers','ProvideerController');
-
+Route::resource('users','UsersController');
+Route::resource('panelcontrol','CpController');
+Route::resource('promotions','PromotionsController');
+Route::resource('seguridad','SeguridadController');
